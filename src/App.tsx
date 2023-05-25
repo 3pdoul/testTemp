@@ -16,7 +16,6 @@ function App() {
         <p>
            <code>cloudflare testing</code>
         </p>
-        
       </header>
     </div>
   );
