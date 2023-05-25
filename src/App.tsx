@@ -14,7 +14,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/cloudflare testing</code>
+           <code>cloudflare testing</code>
         </p>
         <a
           className="App-link"
