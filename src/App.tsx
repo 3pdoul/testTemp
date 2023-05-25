@@ -16,15 +16,7 @@ function App() {
         <p>
            <code>cloudflare testing</code>
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-        {message && <p>{message}</p>}
+        
       </header>
     </div>
   );
